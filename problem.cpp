@@ -2,9 +2,10 @@
 
 using namespace std;
 
+int a1;
+
 int main() {
     cout << "Problem 1" << endl;
-    int a1;
     int b1;
     cin >> a1;
     cin >> b1;
